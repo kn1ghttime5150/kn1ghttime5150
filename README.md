@@ -5,7 +5,7 @@
 - 🎮 Games I play include: Destiny 2, Warframe, Scrap Mechanic, 5D Chess with Multiverse Time Travel, Catan Universe, Minecraft, Incredibox, Space Scavenger, Splitgate, Team Fortress 2, and more to come…
 - 🧑‍💻 I'm currently working with HTML/CSS, JavaScript, ReactJS, NextJS, and TailwindCSS.
 - 🌱 I’m currently learning JavaScript, NextJS, and TailwindCSS.
-- 📫 You can reach me at: <a href="mailto:konr5150@gmail.com">My Email</a>, <a href="https://discord.gg/EqkbSmT">My Discord Server</a>, <a href="https://twitter.com/TimeKn1ght">My Twitter</a>, <a href="https://discord.gg/pZQaAjPn9X">My Company's Discord Server (WldFire Designs)</a>
+- 📫 You can reach me at: <a href="mailto:konr5150@gmail.com">My Email</a>, <a href="https://discord.gg/EqkbSmT">My Discord Server</a>, <a href="https://twitter.com/TimeKn1ght">My Twitter</a>, and/or <a href="https://discord.gg/pZQaAjPn9X">My Company's Discord Server (WldFire Designs)</a>
 
 <!---
 kn1ghttime5150/kn1ghttime5150 is a ✨ special ✨ repository because its `README.md` (this file) appears on the your GitHub profile.
