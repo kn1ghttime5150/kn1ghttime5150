@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kn1ghtTime
+- 👋 Hi, I’m Kn1ghtTime!
 - 👀 I love listening to EDM, watching sci-fi movies, and reading manga.
 - 📺 I'm a huge fan of the Adult Swim TV show Rick and Morty, and I'm also a huge Naruto geek.
 - 🎵 Artists that’re inspiring me in <a href="https://open.spotify.com/artist/0Z1EddK76KPuy55x9XQjJF?si=_xiL5WgeS1uyQMrtu3SRGQ">my own music production</a> include: Daft Punk, deadmau5, Alan Walker, Swedish House Mafia, Virtual Riot, Stonebank, Naeleck, MUZZ, Pegboard Nerds, Defqwop, KLOUD, Tokyo Machine, and Prismo. As well as some others.
